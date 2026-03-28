@@ -23,7 +23,7 @@ https://github.com/xcyberspy/keyvmware/blob/main/vmwk17key.txt
 <p>2. copy one code</p>
 
 ```
-xxxxx-xxxxx-xxxxx-xxxx-xxxx
+xxxxx-xxxxx-xxxxx-xxxxx-xxxxx
 ```
 
 
