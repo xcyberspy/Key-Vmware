@@ -26,9 +26,8 @@ https://github.com/xcyberspy/keyvmware/blob/main/vmwk17key.txt
 xxxxx-xxxxx-xxxxx-xxxx-xxxx
 ```
 
-<p>3. go to help section</p>
 
-<p>4. enter your license key</p>
+<p>3. enter your license key</p>
 
 ```
 And enter you code and DONE ✔️
