@@ -34,9 +34,6 @@ xxxxx-xxxxx-xxxxx-xxxx-xxxx
 And enter you code and DONE ✔️
 ```
 
-<h2>🛡️ License:</h2>
-
-This project is licensed under the This project is licensed under the This project is licensed under the This project is licensed under the \[xcyberspy\]
 
 <h2>💖Like my work?</h2>
 
